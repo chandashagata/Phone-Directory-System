@@ -24,10 +24,10 @@ efficient data management, and secure operations. The detailed scope is mentione
 frontend with Backend, User Authentication)
 
 **Technical Frameworks / Technologies Required :** 
- **Frontend Development:** HTML, CSS, JavaScript, React.js (table creation frontend) 
- **Backend Development:** Node.js, Express.js, Sequelize (ORM Library for Node.js to 
+**Frontend Development:** HTML, CSS, JavaScript, React.js (table creation frontend) 
+**Backend Development:** Node.js, Express.js, Sequelize (ORM Library for Node.js to 
 interact with MySQL) 
- **Database:** MySQL, Sequalize 
- **User Authentication:** Firebase Authentication 
- **API Development:** Express.js (to handle CRUD Operations on user data) 
- **Development and Deployment:** Git, GitHub, Postman (for testing API integration)
+**Database:** MySQL, Sequalize 
+**User Authentication:** Firebase Authentication 
+**API Development:** Express.js (to handle CRUD Operations on user data) 
+**Development and Deployment:** Git, GitHub, Postman (for testing API integration)
