@@ -10,11 +10,14 @@ software solutions, can lead to inefficiencies, data inaccuracies, and security 
 This system, developed using Node.js and MySQL, provides a centralized and secure platform 
 for managing all aspects of organizational efficiencies. 
 ![image](https://github.com/user-attachments/assets/184a5fc1-ed5a-4185-bfd3-2df983ac266b)
-![image](https://github.com/user-attachments/assets/1d4d7a7b-f98d-4630-9e2b-07b69f646185)
 
+![image](https://github.com/user-attachments/assets/1d4d7a7b-f98d-4630-9e2b-07b69f646185)
 
 ![image](https://github.com/user-attachments/assets/6fd7c79e-2654-4d76-a2fc-183b0db42bc4)
 
+![image](https://github.com/user-attachments/assets/65c5be0b-efd7-4f06-9854-f0b66d38b602)
+
+![image](https://github.com/user-attachments/assets/e4d4e4c9-883f-453f-99b9-bcd1c87def10)
 
 
 **Scope of Project :**
