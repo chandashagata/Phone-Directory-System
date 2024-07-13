@@ -19,6 +19,9 @@ for managing all aspects of organizational efficiencies.
 
 ![image](https://github.com/user-attachments/assets/e4d4e4c9-883f-453f-99b9-bcd1c87def10)
 
+![image](https://github.com/user-attachments/assets/27e1cc7b-c3a4-4763-a4c7-232c2ebcd17e)
+
+
 
 **Scope of Project :**
 The Phone Directory System project aims to develop a comprehensive web application for 
