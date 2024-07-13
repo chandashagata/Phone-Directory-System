@@ -8,7 +8,14 @@ handling employee information, client information, staff data, and departmental
 management increases. Traditional methods, often reliant on spreadsheets or disparate 
 software solutions, can lead to inefficiencies, data inaccuracies, and security vulnerabilities. 
 This system, developed using Node.js and MySQL, provides a centralized and secure platform 
-for managing all aspects of organizational efficiencies.  
+for managing all aspects of organizational efficiencies. 
+![image](https://github.com/user-attachments/assets/184a5fc1-ed5a-4185-bfd3-2df983ac266b)
+![image](https://github.com/user-attachments/assets/1d4d7a7b-f98d-4630-9e2b-07b69f646185)
+
+
+![image](https://github.com/user-attachments/assets/6fd7c79e-2654-4d76-a2fc-183b0db42bc4)
+
+
 
 **Scope of Project :**
 The Phone Directory System project aims to develop a comprehensive web application for 
